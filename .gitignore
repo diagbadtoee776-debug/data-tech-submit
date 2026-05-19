@@ -1,1 +1,10 @@
-
+__pycache__/
+*.pyc
+.env
+venv/
+instance/
+quarantine/*
+!quarantine/.gitkeep
+*.log
+.pytest_cache/
+.mypy_cache/
